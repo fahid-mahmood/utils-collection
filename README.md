@@ -1,33 +1,33 @@
-<h1 align="center">Welcome to Fahid utils-collection 👋</h1>
+<h1 align="center">Welcome to Fahid utils-collections 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/utils-collection" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/utils-collection.svg">
+  <a href="https://www.npmjs.com/package/utils-collections" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/utils-collections.svg">
   </a>
-  <a href="https://github.com/fahid-mahmood/utils-collection#readme" target="_blank">
+  <a href="https://github.com/fahid-mahmood/utils-collections#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/fahid-mahmood/utils-collection/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/fahid-mahmood/utils-collections/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/fahid-mahmood/utils-collection/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/fahid-mahmood/utils-collection" />
+  <a href="https://github.com/fahid-mahmood/utils-collections/blob/master/LICENSE" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/github/license/fahid-mahmood/utils-collections" />
   </a>
 </p>
 
-> Introducing 'utils-collection', a comprehensive utility package to enhance your development experience. This package includes a collection of functions and utilities that have been tested and refined over the years through various personal projects. The package includes a variety of utility functions, such as cryptographic, debugging, location, number, SQL, string and time utilities, designed to streamline your development process. Whether you're building a new project or looking to optimize an existing one, 'utils-collection' is a valuable tool that will save you time and effort. Share with the community and be more productive.
+> Introducing 'utils-collections', a comprehensive utility package to enhance your development experience. This package includes a collection of functions and utilities that have been tested and refined over the years through various personal projects. The package includes a variety of utility functions, such as cryptographic, debugging, location, number, SQL, string and time utilities, designed to streamline your development process. Whether you're building a new project or looking to optimize an existing one, 'utils-collections' is a valuable tool that will save you time and effort. Share with the community and be more productive.
 
-### 🏠 [Homepage](https://github.com/fahid-mahmood/utils-collection#readme)
+### 🏠 [Homepage](https://github.com/fahid-mahmood/utils-collections#readme)
 
 ## Install
 
 ```sh
-npm install utils-collection
+npm install utils-collections
 ```
 
 ## Usage
 
 ```sh
-const { isSet } = require("utils-collection");
+const { isSet } = require("utils-collections");
 ```
 
 ## Utils
@@ -1227,7 +1227,7 @@ getMonthlyTable("cdr_logs", "2021-05-11") // => "cdr_logs_2021_05"
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fahid-mahmood/utils-collection/issues). You can also take a look at the [contributing guide](https://github.com/fahid-mahmood/utils-collection/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/fahid-mahmood/utils-collections/issues). You can also take a look at the [contributing guide](https://github.com/fahid-mahmood/utils-collections/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -1236,4 +1236,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Fahid Mahmood](https://github.com/fahid-mahmood).<br />
-This project is [ISC](https://github.com/fahid-mahmood/utils-collection/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/fahid-mahmood/utils-collections/blob/master/LICENSE) licensed.
