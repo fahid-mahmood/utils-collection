@@ -1,0 +1,27 @@
+{
+    // https://gist.github.com/mizchi/31aef7dd1e2f96d0caf8356fef97a050#file-loose-tsconfig-json
+    "compilerOptions": {
+        "checkJs": true, /* Report errors in .js files. */
+        "target": "es5",
+        "module": "commonjs",
+        "strictFunctionTypes": true, /* Enable strict checking of function types. */
+
+        // "noImplicitAny": true,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "forceConsistentCasingInFileNames": true,
+        /* Additional Checks */
+        // "noUnusedLocals": true, /* Report errors on unused locals. */
+        // "noUnusedParameters": true, /* Report errors on unused parameters. */
+        // "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
+        // "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}

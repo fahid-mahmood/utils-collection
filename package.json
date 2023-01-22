@@ -1,0 +1,38 @@
+{
+  "name": "utils-collection",
+  "version": "1.0.0",
+  "description": "Introducing 'utils-collection', a comprehensive utility package to enhance your development experience. This package includes a collection of functions and utilities that have been tested and refined over the years through various personal projects. The package includes a variety of utility functions, such as cryptographic, debugging, location, number, SQL, string and time utilities, designed to streamline your development process. Whether you're building a new project or looking to optimize an existing one, 'utils-collection' is a valuable tool that will save you time and effort. Share with the community and be more productive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahid-mahmood/utils-collection.git"
+  },
+  "keywords": [
+    "utils",
+    "string-utils",
+    "time-utils",
+    "common_utils",
+    "crypto_utils",
+    "debugging_utils",
+    "location_utils",
+    "number_utils",
+    "sql_utils",
+    "string_utils",
+    "time_utils"
+  ],
+  "author": "Fahid Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahid-mahmood/utils-collection/issues"
+  },
+  "homepage": "https://github.com/fahid-mahmood/utils-collection#readme",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.31",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.0"
+  }
+}
